@@ -53,7 +53,7 @@ This project demonstrates the power of data analysis and visualization in transf
 Feel free to explore the project files and interactive dashboard via the provided link. If you have any questions or feedback, please reach out!
 
 ## Contact
-For any inquiries or support, please contact [Abhay Kumar] at [meabhaykr@gmail.com].
+For any inquiries or support, please contact at meabhaykr@gmail.com
 
 ---
 
