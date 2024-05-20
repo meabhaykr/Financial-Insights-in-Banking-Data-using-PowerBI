@@ -1,7 +1,7 @@
 # Financial Insights in Banking Data using Power BI
 
 <p align="center">
-    <img src="https://github.com/meabhaykr/raksha_pipes_assignment/blob/main/Raksha%20Pipes%20Banner.png" alt="Raksha Pipes Banner.png">
+    <img src="https://github.com/meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Banner.jpg" alt="Banner.jpg">
 </p>
 
 ## Project Overview
