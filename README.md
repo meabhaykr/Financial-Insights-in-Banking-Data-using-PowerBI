@@ -1,5 +1,7 @@
 <h1 align="center">Financial Insights in Banking Data using Power BI</h1>
 
+---
+
 <p align="center">
     <img src="https://github.com/meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Banner.jpg" alt="Banner.jpg">
 </p>
